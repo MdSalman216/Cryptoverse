@@ -1,2 +1,2 @@
 ### Website Url 
-#### https://cryptodetails-app.netlify.app/
+#### https://zealous-goldstine-11cd5a.netlify.app/
